@@ -104,7 +104,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/tooplick/Cloudfire_pages.git
+  repo: https://gitshub.com/tooplick/Blog.git
   branch: main
 
+# sitemap
+sitemap:
+  path: sitemap.xml
 
