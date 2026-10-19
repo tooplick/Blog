@@ -15,7 +15,9 @@ Home：[YGKing.top](https://ygking.top/)
 
 Mail：[mail.ygking.top](https://mail.ygking.top/)  
 
-New Api：[openai.ygking.top](https://openai.ygking.top/)
+New Api：[ai.ygking.top](https://ai.ygking.top/)  
+
+Cloudreve: [drive.ygking.top](https://drive.ygking.top/)
 
 For you：[say.ygking.top](http://say.ygking.top)  
 
@@ -25,11 +27,9 @@ For you：[say.ygking.top](http://say.ygking.top)
 
 Nekro Endpoint：[edge.ygking.top](https://edge.ygking.top)  
 
-Github Proxy：[github.ygking.top](https://github.ygking.top/)  
-
 Any Proxy：[vpn.ygking.top](https://vpn.ygking.top/)  
 
-VPN：[proxy.ygking.top](https://proxy.ygking.top/)
+VPN：[proxy.ygking.top](https://proxy.ygking.top/)  
 
 ---
 
