@@ -104,7 +104,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gitshub.com/tooplick/Blog.git
+  repo: https://github.com/tooplick/Blog.git
   branch: main
 
 # sitemap
