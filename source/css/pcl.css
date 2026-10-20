@@ -355,6 +355,7 @@
   background: var(--pcl-surface);
   color: var(--pcl-muted);
   font-size: 14px;
+  text-decoration: none !important;
   transition: border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
 }
 
@@ -362,6 +363,7 @@
   border-color: rgba(40, 120, 240, 0.3);
   background: var(--pcl-soft);
   color: var(--pcl-blue);
+  text-decoration: none !important;
 }
 
 /* Footer */
