@@ -1,6 +1,6 @@
 # YGKing 的博客
 
-ygking.top - 基于 Hexo 和 Butterfly 主题的个人博客。
+基于 Hexo 和 Butterfly 主题的个人博客。
 
 ## 本地构建
 
@@ -34,4 +34,4 @@ Cloudflare Pages 也会监听同一个仓库，使用相同的构建步骤自动
    - `NODE_VERSION` = `20`
    - `PYTHON_VERSION` = `3.12`
 6. 点击 **Save and Deploy**
-7. 部署完成后在 **Custom domains** 绑定 `ygking.top`
+
