@@ -19,11 +19,12 @@ New Api：[ai.ygking.top](https://ai.ygking.top/)
 
 Cloudreve：[drive.ygking.top](https://drive.ygking.top/)  
 
-PCL2：[pcl](https://ygking.top/pcl/)  
-
 For you：[say.ygking.top](http://say.ygking.top)  
 
 ---
+## PCL2 Download
+
+PCL2：[PCL Download](https://ygking.top/pcl/)  
 
 ## Cloudflare Workers Proxy
 
