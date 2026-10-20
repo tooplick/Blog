@@ -80,7 +80,6 @@ description: Plain Craft Launcher 2（PCL2）官方历史版本下载
 </div>
 
 <div class="pcl-foot">
-<p>下载后请以实际文件的 SHA-256 对照上表，确保文件完整未被篡改。所有版本均为官方发布时的原始 exe，双击即可运行，无需安装。</p>
 <p>下载链接经 <a href="https://gh-proxy.org" target="_blank" rel="noopener">gh-proxy.org</a> 加速（不改动文件内容）；若加速节点不可用，可点击每行右侧的 GitHub 图标直连下载。</p>
 <p>文件来源：<a href="https://github.com/Meloong-Git/PCL" target="_blank" rel="noopener">Meloong-Git/PCL</a> 的历史提交 ｜ 归档仓库：<a href="https://github.com/tooplick/pcl2" target="_blank" rel="noopener">tooplick/pcl2</a></p>
 <p>版权归原作者所有，分发遵循《<a href="https://github.com/Meloong-Git/PCL/blob/main/LICENCE" target="_blank" rel="noopener">PCL 分发有限许可</a>》，请勿用于商业用途。</p>
