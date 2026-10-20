@@ -1,12 +1,13 @@
 ---
 title: PCL2 下载
 date: 2026-10-20 15:00:00
+permalink: /pcl/
 top_img: img/default-top-bg.jpg
-keywords: PCL2
+keywords: pcl
 description: Plain Craft Launcher 2（PCL2）官方历史版本下载
 ---
 
-<link rel="stylesheet" href="/css/pcl2.css">
+<link rel="stylesheet" href="/css/pcl.css">
 <div class="pcl-page">
 <div class="pcl-hero">
 <div class="pcl-hero-icon"><i class="fa-solid fa-cube"></i></div>
