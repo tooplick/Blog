@@ -1,5 +1,5 @@
 ---
-title: PCL2 解除下载限制教程
+title: PCL2 解除下载限制
 date: 2026-10-24 16:30:00
 keywords: PCL-Unlock-Download
 tags: Tutorial
@@ -10,7 +10,7 @@ copyright_author_href: https://github.com/tooplick
 copyright_url: https://ygking.top/PCL-Unlock-Download/
 ---
 
-# PCL2 解除下载限制教程
+# PCL2 解除下载限制
 
 ## 背景
 
