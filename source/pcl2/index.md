@@ -23,7 +23,7 @@ description: Plain Craft Launcher 2（PCL2）官方历史版本下载
 <div class="pcl-list">
 <div class="pcl-row">
 <div class="pcl-ver">PCL Download Patch</div>
-<div class="pcl-meta">0.37 MB · 解除 v2.99.0.0+ 下载限制</div>
+<div class="pcl-meta">解除 v2.99.0.0+ 下载限制</div>
 <div class="pcl-actions">
 <a class="pcl-dl" target="_self" href="https://gh-proxy.org/https://raw.githubusercontent.com/tooplick/pcl2/main/PCL%20Download%20Patch.exe" download="PCL Download Patch.exe"><i class="fa-solid fa-download"></i> 下载</a>
 <a class="pcl-src" href="https://github.com/tooplick/pcl2/tree/main/PclDownloadPatch" target="_blank" rel="noopener" title="查看源码"><i class="fa-brands fa-github"></i></a>
