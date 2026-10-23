@@ -17,20 +17,18 @@ Mail：[mail.ygking.top](https://mail.ygking.top/)
 
 New Api：[ai.ygking.top](https://ai.ygking.top/)  
 
-For you：[say.ygking.top](http://say.ygking.top)  
+For you：[say.ygking.top](http://say.ygking.top/)  
 
 ---
 ## PCL2 Download
 
 PCL2：[PCL Download](https://ygking.top/pcl/)  
 
-## Cloudflare Workers Proxy
+## Cloudflare Proxy
 
-Nekro Endpoint：[edge.ygking.top](https://edge.ygking.top)  
+Nekro Endpoint：[edge.ygking.top](https://edge.ygking.top/)  
 
 Any Proxy：[vpn.ygking.top](https://vpn.ygking.top/)  
-
-VPN：[proxy.ygking.top](https://proxy.ygking.top/)  
 
 ---
 
