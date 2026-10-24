@@ -82,7 +82,7 @@ PCL 的复制与分发遵循《PCL 分发有限许可》，补丁后的 exe 自�
 ## 相关链接
 
 - PCL2 下载页：[https://ygking.top/pcl](https://ygking.top/pcl/)
-- 补丁工具源码：[https://github.com/tooplick/pcl2](https://github.com/tooplick)
+- 补丁工具源码：[https://github.com/tooplick/pcl2](https://github.com/tooplick/pcl)
 - PCL 官方仓库：[https://github.com/Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)
 - 《PCL 分发有限许可》：[https://github.com/Meloong-Git/PCL/blob/main/LICENCE](https://github.com/Meloong-Git/PCL/blob/main/LICENCE)
 
