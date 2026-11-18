@@ -15,7 +15,9 @@ Home：[YGKing.top](https://ygking.top/)
 
 Mail：[mail.ygking.top](https://mail.ygking.top/)  
 
-New Api：[ai.ygking.top](https://ai.ygking.top/)  
+New Api：[ai.ygking.top](https://ai.ygking.top/) 
+
+Timer：[time.ygking.top](https://time.ygking.top/)  
 
 For you：[say.ygking.top](http://say.ygking.top)  
 
